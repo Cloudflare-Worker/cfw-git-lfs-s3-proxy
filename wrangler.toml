@@ -1,0 +1,5 @@
+name = "cfw-git-lfs-s3-proxy"
+type = "javascript"
+
+[placement]
+mode = "smart"
