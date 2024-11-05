@@ -3,3 +3,6 @@ type = "javascript"
 
 [placement]
 mode = "smart"
+
+[build]
+command = "npm install"
